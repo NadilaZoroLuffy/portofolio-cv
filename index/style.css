@@ -1,0 +1,26 @@
+/* body{
+    min-height: 5000px;
+} */
+.jumbotron{
+    background-color:rgb(210, 240, 204);
+    padding-top: 200px;
+}
+.jumbotron h1 {
+    color: rgb(76, 139, 97);
+}
+.about-section{
+    padding-top: 100px;
+}
+.Project-Section{
+    padding-top: 100px;
+}
+.tools-skills-section{
+    padding-top: 100px;
+}
+.contact-section{
+    padding-top: 100px;
+}
+.text-white{
+    text-align: center;
+    font-style: italic;
+}
